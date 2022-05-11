@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 *.bat
-*.gradle
 
 # IDEA config files
 .idea/
